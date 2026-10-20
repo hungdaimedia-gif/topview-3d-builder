@@ -1,0 +1,3 @@
+# Ensure line endings are preserved with LF to prevent asset size mismatches on Windows
+builtin-assets/** -text
+*.json text eol=lf
